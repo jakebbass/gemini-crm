@@ -1,0 +1,6 @@
+
+{
+  "name": "CRM Autopilot Dashboard (Next.js)",
+  "description": "A Next.js application providing a CRM dashboard frontend and a backend API (/api/sync) for data synchronization. Integrates with Google Sheets, Calendar, Gemini API, and optionally Fireflies.ai. Designed for deployment on Google Cloud Run.",
+  "requestFramePermissions": []
+}
